@@ -1,1 +1,1 @@
-# k0nstrukt-or.github.io
+Project was created with Angular 14.1.3.
